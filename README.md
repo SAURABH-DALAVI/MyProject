@@ -1,1 +1,1 @@
-# MyProject
+# face_recognition_flask
